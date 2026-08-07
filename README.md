@@ -1,6 +1,6 @@
-# ionat · Ursprung · Gegen-Pool
+# IONAT · Ursprung · Gegen-Pool
 
-ionat ist die vierte Achse nach Breite, Höhe und Tiefe.
+IONAT ist die vierte Achse nach Breite, Höhe und Tiefe.
 Es ist kein Raum, sondern der Begründungspunkt.
 
 ## Rolle
@@ -12,6 +12,6 @@ Es ist kein Raum, sondern der Begründungspunkt.
 - pZ# = erfüllt · grün
 
 ## Bedeutung
-ionat zeigt, dass ein System im Pfad ist.
+IONAT zeigt, dass ein System im Pfad ist.
 Es ist der Punkt, an dem Breite, Höhe und Tiefe enden
 und die Begründung beginnt.
