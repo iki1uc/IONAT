@@ -1,30 +1,17 @@
-# 4u – Response Layer 7 (iki1uc)
+# ionat · Ursprung · Gegen-Pool
 
-4u ist die 7. Response-Ebene im iki1uc-System.
-Sie ersetzt die alte RESPO-Achse durch ein neues, systemisches Modell:
+ionat ist die vierte Achse nach Breite, Höhe und Tiefe.
+Es ist kein Raum, sondern der Begründungspunkt.
 
-OK / NOK / FLOW / BREAK / ECHO / VOID / ROOT
+## Rolle
+- Gegen-Pool zu allen pZ-Zuständen
+- Abschluss der Raumachsen
+- Beginn der Begründungsachse
 
-4u verbindet:
-- PX-TRIO (PX3 / PX6 / PX9)
-- PX12 / PX4 (Fusion + Achse)
-- SYS / SYS-x (System + Kreuzung)
-- 2me (Mirror-Return)
-- TEM (Zeit)
-- UI-SCANNER (Interface)
+## Marker
+- pZ# = erfüllt · grün
 
------------------------------------------
-# FUNKTION
-
-respo.OK     → Zustimmung  
-respo.NOK    → Ablehnung  
-respo.FLOW   → System fließt  
-respo.BREAK  → System bricht  
-respo.ECHO   → Spiegelung  
-respo.VOID   → Neutral  
-respo.ROOT   → Rückkehr
-
------------------------------------------
-# STATUS
-
-4u ist aktiv, eigenständig und vollständig iki1uc.
+## Bedeutung
+ionat zeigt, dass ein System im Pfad ist.
+Es ist der Punkt, an dem Breite, Höhe und Tiefe enden
+und die Begründung beginnt.
